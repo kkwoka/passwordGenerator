@@ -1,0 +1,35 @@
+1. When user clicks on generate password, my password generator program begins.
+
+
+2. Prompt user of how many characters?
+    validate that use tuped in a number that is 8-128
+
+        if number user typed in is less than 8 OR more than 128 OR not a number,
+            ask user to try again
+
+        else
+            proceed to next steps!
+
+
+3. character types (booleans), user must select at least 1
+    Special characters
+    numerical characters
+    lowercase characters
+    uppercase characters
+
+    If user selects yes for any of these variables, add that selected array to a separate variable.
+    This separate variable will include all TRUE (user seleted) variables.
+
+    If user does NOT select any of the variables, nothing will happen, no password will be generated. The user will need to start over.
+
+4. Generate password
+    Given: 
+        the size of the password the user wants (the length they have chosen between 8-128 characters) 
+        the chosen variables the user wants
+    Result:
+        password will be generated (RETURNED) based on user selected criteria
+
+5. Clear existing password so the user could start over.
+
+Bonus - Copy To Clipboard
+    Should the user want to copy their newly generated password, without doing it manually themselves, click the "copy to Clipboard" button which will do the work for them.
