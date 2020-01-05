@@ -9,9 +9,9 @@ kkwoka.github.io
 * passgen_index.html
 * READMEgithubio.md
 * Assets/
-    * passgen_style.css
-    * passgen_script.js
-    * passgen_psuedocode.txt
+    * style.css
+    * script.js
+    * psuedocode.txt
     * Assets/Images
         * PasswordGenerator.png
         * CopyToClipboard.png
