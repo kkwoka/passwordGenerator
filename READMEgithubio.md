@@ -12,13 +12,13 @@ kkwoka.github.io
     * passgen_style.css
     * passgen_script.js
     * passgen_psuedocode.txt
-* Assets/Images
-    * PasswordGenerator.png
-    * CopyToClipboard.png
+    * Assets/Images
+        * PasswordGenerator.png
+        * CopyToClipboard.png
 
 ## Images of Working Password Generator
-![Image of PassGen1](https://kkwoka.github.io/Images/PasswordGeneratorPic.png)
-![Image of CopyToClipboard1](https://kkwoka.github.io/Images/CopyToClipboardPic.png)
+![Image of PassGen1](https:/passwordGenerator/Assets/Images/PasswordGeneratorPic.png)
+![Image of CopyToClipboard1](https://passwordGenerator/Assets/Images/CopyToClipboardPic.png)
 
 ## Known Bugs
 kkwoka.github.io responds slowly to the given files. Sometimes it will take 1o minutes to latest push. Please be patient.

@@ -39,8 +39,8 @@ function generatePassword() {
   };
   
   for (i = 0; i < passwordLength; i++) {
-    var x = chosenTypes[Math.floor(Math.random() * (chosenTypes.length) ) ];
-    var y = x[Math.floor(Math.random() * (x.length) ) ];
+    var x = chosenTypes[Math.floor(Math.random()*(chosenTypes.length))];
+    var y = x[Math.floor(Math.random()*(x.length))];
     finalPassword = finalPassword.concat(y)
   }
   return finalPassword;
