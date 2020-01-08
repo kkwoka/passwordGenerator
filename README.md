@@ -6,12 +6,12 @@ This project will allow a user to create a randomly generated password using 4 s
 kkwoka.github.io
 
 ## Included Files
-* passgen_index.html
-* READMEgithubio.md
+* index.html
+* README.md
 * Assets/
-    * style.css
-    * script.js
     * psuedocode.txt
+    * script.js
+    * style.css
     * Assets/Images
         * PasswordGenerator.png
         * CopyToClipboard.png
