@@ -14,7 +14,12 @@ body,
 
 body {
   font-family: sans-serif;
-  background-color: #f9fbfd;
+  background-image: url("./vintage-wallpaper/vintage-wallpaper.png");
+}
+
+h1{
+  color: black;
+  text-shadow: 5px 5px hsl(360, 91%, 36%);
 }
 
 .wrapper {
@@ -34,7 +39,7 @@ header {
   background-color: hsl(0, 0%, 100%);
   border-radius: 5px;
   border-width: 1px;
-  box-shadow: rgba(0, 0, 0, 0.15) 0px 2px 8px 0px;
+  box-shadow: rgba(0, 0, 0, 0.15) 10px 8px 8px 10px;
   color: hsl(206, 17%, 28%);
   font-size: 18px;
   margin: 0 auto;
