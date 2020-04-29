@@ -5,7 +5,15 @@ This project will allow a user to create a randomly generated password using 4 s
 ## Deployment Link
 https://kkwoka.github.io/passwordGenerator/
 
-## Included Files
+
+## Table of Contents 
+* [Files](#Files)
+​
+* [GIF](#GIF)
+​  ​
+* [Questions](#questions)
+
+## Files
 * index.html
 * README.md
 * Assets/
@@ -16,9 +24,12 @@ https://kkwoka.github.io/passwordGenerator/
         * PasswordGenerator.png
         * CopyToClipboard.png
 
-## Images of Working Password Generator
-![Image of PassGen1](./Assets/Images/PasswordGeneratorPic.png)
-![Image of CopyToClipboard1](./Assets/Images/CopyToClipboardPic.png)
+## GIF
+![GIF](./Assets/Images/test3.gif)
 
-## Known Bugs
-kkwoka.github.io responds slowly to the given files. Sometimes it will take 1o minutes to latest push. Please be patient.
+
+## Questions
+​
+<img src="https://avatars3.githubusercontent.com/u/57764303?v=4" alt="avatar" style="border-radius: 16px" width="30" />
+​
+If you have any questions about the repo, contact [kkwoka](https://github.com/kkwoka).
